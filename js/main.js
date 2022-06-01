@@ -27,7 +27,7 @@ console.log(numberContainer.length);
 
 
 
-let secondiVisione = 5
+let secondiVisione = 30
 let visione = true
 
 // creare il tempo che le carte restano visibili
@@ -55,7 +55,7 @@ secondiVisione --;
     }
 },1000)
 
-const timeDelay = setTimeout(askUser,5000);
+const timeDelay = setTimeout(askUser,30000);
 
 function askUser (){
     do{
